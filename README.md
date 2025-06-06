@@ -67,7 +67,7 @@ We welcome collaborators, contributors, and host institutions.
 Have an idea or want to bring PEDIL-Forge to your institution?
 
 📧 [dmakau@utk.edu](mailto:dmakau@utk.edu)  
-🌐 [https://pedil.org](https://pedil.org)
+🌐 [https://pedil.cephr.net/](https://pedil.cephr.net/)
 
 Or open an [issue](https://github.com/drdmakau/PEDIL-Forge/issues) / [pull request](https://github.com/drdmakau/PEDIL-Forge/pulls).
 
