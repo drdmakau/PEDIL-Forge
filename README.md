@@ -1,6 +1,6 @@
 # PEDIL-Forge: Machine Learning for Public Health – Diabetes Prediction
 
-Welcome to the official repository for the **Day 2 session** of the **PEDIL-Forge Workshop**, hosted by the Population and Epidemiology Data Innovation Lab (PEDIL). This hands-on module introduces participants to applied machine learning using real-world data from the CDC's Behavioral Risk Factor Surveillance System (BRFSS), focusing on predicting **diabetes** risk.
+Welcome to the official repository for the **Day 2 session** of the **PEDIL-Forge Workshop on ML for Public Health**, hosted by the Population and Epidemiology Data Innovation Lab (PEDIL) on 06-2025 at Makerere. This hands-on module introduces participants to applied machine learning using real-world data from the CDC's Behavioral Risk Factor Surveillance System (BRFSS), focusing on predicting **diabetes** risk.
 
 ---
 
