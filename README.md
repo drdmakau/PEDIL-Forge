@@ -1,6 +1,8 @@
+
+
 # PEDIL-Forge
 
-**PEDIL-Forge** is the official training initiative of the [Population & Epidemiology Data Innovation Lab (PEDIL)](https://pedil.org), based at the University of Tennessee, Knoxville.
+**PEDIL-Forge** is the official training initiative of the [Population & Epidemiology Data Innovation Lab (PEDIL)](https://pedil.cephr.net/), based at the University of Tennessee, Knoxville.
 
 We design and deliver high-impact, hands-on training modules at the intersection of data science, epidemiology, and population health research.
 
@@ -8,7 +10,7 @@ We design and deliver high-impact, hands-on training modules at the intersection
 
 ---
 
-## 🚀 What’s in This Repository?
+## What’s in This Repository?
 
 This repository hosts modular training content delivered under the PEDIL-Forge umbrella. Each folder represents a distinct training series, organized by **theme**, **date**, and **location**.
 
@@ -22,7 +24,7 @@ More modules will be added as the initiative expands.
 
 ---
 
-## 🧩 Structure
+## Structure
 
 ```
 PEDIL-Forge/
@@ -37,15 +39,15 @@ PEDIL-Forge/
 ```
 
 Each submodule contains:
-- 🧠 Annotated training notebooks (Python/R)
-- 📂 Cleaned datasets
-- 🎯 Learning objectives
-- 📊 Output visualizations and saved models
-- 📘 Student versions for hands-on practice
+- Annotated training notebooks (Python/R)
+- Cleaned datasets
+- Learning objectives
+- Output visualizations and saved models
+- Student versions for hands-on practice
 
 ---
 
-## 🎓 About PEDIL-Forge
+## About PEDIL-Forge
 
 **PEDIL-Forge** represents a forward-looking strategy to equip scientists, analysts, and students with real-world skills to navigate today’s data-rich health environments. Our workshops are:
 
@@ -57,11 +59,11 @@ We welcome collaborators, contributors, and host institutions.
 
 ---
 
-## 📬 Contact & Feedback
+## Contact & Feedback
 
 Have an idea or want to bring PEDIL-Forge to your institution?
 
-📧 [info@pedil.org](mailto:info@pedil.org)  
+📧 [dmakau@utk.edu](mailto:dmakau@utk.edu)  
 🌐 [https://pedil.org](https://pedil.org)
 
 Or open an [issue](https://github.com/drdmakau/PEDIL-Forge/issues) / [pull request](https://github.com/drdmakau/PEDIL-Forge/pulls).
