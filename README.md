@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Pedil-logo2.png" alt="PEDIL Logo" width="200"/>
+  <img src="Pedil logo2.png" alt="PEDIL Logo" width="200"/>
 </p>
 
 
