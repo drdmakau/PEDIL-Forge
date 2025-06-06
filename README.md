@@ -17,7 +17,7 @@ We design and deliver high-impact, hands-on training modules at the intersection
 
 This repository hosts modular training content delivered under the PEDIL-Forge umbrella. Each folder represents a distinct training series, organized by **theme**, **date**, and **location**.
 
-### 🔹 Current Modules
+### Current Modules
 
 | Module | Description |
 |--------|-------------|
