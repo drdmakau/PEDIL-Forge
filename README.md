@@ -73,6 +73,6 @@ Or open an [issue](https://github.com/drdmakau/PEDIL-Forge/issues) / [pull reque
 
 ---
 
-## 📄 License
+## License
 
 All content is released for educational use under the [MIT License](./LICENSE). Please attribute PEDIL when using or modifying the materials.
