@@ -44,7 +44,7 @@ The target variable is `DIABETE3`, indicating whether a respondent has been diag
 ## How to Use
 
 1. Open the main notebook in [Google Colab](https://colab.research.google.com/)  
-   👉 [Click here to launch](https://colab.research.google.com/github/drdmakau/pedil-forge-diabetes/blob/main/PEDIL_Forge_Day2_Diabetes_Rebuilt.ipynb)
+   👉 [Click here to launch](https://colab.research.google.com/github/drdmakau/PEDIL-Forge/blob/main/ml-public-health/06-2025-Mak/PEDIL_Forge_Day2_Diabetes_Rebuilt.ipynb)
 
 2. Run cells step by step as guided. Code comments and markdown cells provide context.
 
@@ -63,18 +63,10 @@ By the end of this module, participants will be able to:
 
 ---
 
-## About PEDIL-Forge
-
-**PEDIL-Forge** is a training initiative by the [Population & Epidemiology Data Innovation Lab (PEDIL)](https://pedil.org), University of Tennessee – Knoxville. We develop and deliver high-impact, hands-on data science and epidemiology training for population health research.
-
-*Tagline:* **Build. Analyze. Transform.**
-
----
-
 ## Feedback & Contribution
 
 Feedback or ideas?  
-Please open an [issue](https://github.com/drdmakau/pedil-forge-diabetes/issues) or [pull request](https://github.com/drdmakau/pedil-forge-diabetes/pulls).
+Please open an [issue](https://github.com/drdmakau/PEDIL-Forge/issues) or [pull request](https://github.com/drdmakau/PEDIL-Forge/pulls).
 
 We welcome collaboration on extending this module to additional health outcomes!
 
