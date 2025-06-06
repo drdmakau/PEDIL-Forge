@@ -49,6 +49,7 @@ The target variable is `DIABETE3`, indicating whether a respondent has been diag
 2. Run cells step by step as guided. Code comments and markdown cells provide context.
 
 3. Optionally, use the student version for independent practice.
+   [Click here to launch](https://colab.research.google.com/github/drdmakau/PEDIL-Forge/blob/main/ml-public-health/06-2025-Mak/PEDIL_Forge_Student_Diabetes_Notebook.ipynb)
 
 ---
 
