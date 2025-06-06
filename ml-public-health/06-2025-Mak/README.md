@@ -44,7 +44,7 @@ The target variable is `DIABETE3`, indicating whether a respondent has been diag
 ## How to Use
 
 1. Open the main notebook in [Google Colab](https://colab.research.google.com/)  
-   👉 [Click here to launch](https://colab.research.google.com/github/drdmakau/PEDIL-Forge/blob/main/ml-public-health/06-2025-Mak/PEDIL_Forge_Day2_Diabetes_Rebuilt.ipynb)
+   [Click here to launch](https://colab.research.google.com/github/drdmakau/PEDIL-Forge/blob/main/ml-public-health/06-2025-Mak/PEDIL_Forge_Day2_Diabetes_Rebuilt.ipynb)
 
 2. Run cells step by step as guided. Code comments and markdown cells provide context.
 
